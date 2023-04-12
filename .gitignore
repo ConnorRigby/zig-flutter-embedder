@@ -1,0 +1,10 @@
+lib/mach-glfw/
+lib/zgl/
+zig-cache/
+zig-out/
+icudtl.dat
+libflutter_engine.so
+embedder.h
+FlutterEmbedderGLFW.cc
+myapp
+src/flutter_embedder.h
